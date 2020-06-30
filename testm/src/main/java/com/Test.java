@@ -5,4 +5,8 @@ public class Test {
 
         System.out.println("");
     }
+
+    public  static  int sum(int a ,int b){
+        return a+b;
+    }
 }
