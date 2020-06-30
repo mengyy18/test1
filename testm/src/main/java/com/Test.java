@@ -5,6 +5,7 @@ public class Test {
         int i =1;
         String str="abc";
         String str1="bcd";
+        long b =3;
         System.out.println("");
 
 
