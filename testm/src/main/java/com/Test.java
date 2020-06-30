@@ -7,7 +7,9 @@ public class Test {
         String str1="bcd";
         long a =0;
         System.out.println("");
+    }
 
-
+    public  static  int sum(int a ,int b){
+        return a+b;
     }
 }
