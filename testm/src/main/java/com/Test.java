@@ -7,6 +7,7 @@ public class Test {
     }
 
     public  static  int sum(int a ,int b){
-        return a+b;
+        int n=b;
+        return a+n;
     }
 }
