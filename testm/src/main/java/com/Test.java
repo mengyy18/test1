@@ -6,6 +6,7 @@ public class Test {
         String str="abc";
         String str1="bcd";
         long b =3;
+        long a =0;
         System.out.println("");
 
 
