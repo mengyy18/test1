@@ -10,6 +10,7 @@ public class Test {
     }
 
     public  static  int sum(int a ,int b){
+        int c=a;
         return a+b;
     }
 }
